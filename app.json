@@ -7,7 +7,7 @@
       "value":"ApteRiv"
     },
     "bot_token": {
-      "description": "Hellou Papallera",
+      "description": "El token del bot",
       "value":"5219015452:AAGgqg-BZEvqlKeZLTZHxyTcz5pHRlNtBVg"
     }
   }
