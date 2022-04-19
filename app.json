@@ -6,9 +6,9 @@
       "description": "El Usuario DE Telegram Q Va A ADministrar El Bot",
       "value":"ApteRiv"
     },
-    "bot_token": {
-      "description": "5219015452:AAGgqg-BZEvqlKeZLTZHxyTcz5pHRlNtBVg",
-      "value":""
+    "tg_bot_token": {
+      "description": "Hellou Papallera",
+      "value":"5219015452:AAGgqg-BZEvqlKeZLTZHxyTcz5pHRlNtBVg"
     }
   }
 }
